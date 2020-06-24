@@ -1,2 +1,2 @@
 # data_projects
- Data Science Projects
+ The folders in this repository contains analyzed data from real datasets that aims at solving real world problems. The data was analyzed using Jupyter notebooks and the files are in csv format. Data cleaning, manipulation, visualization and analysis are the techniques used in these projects.
